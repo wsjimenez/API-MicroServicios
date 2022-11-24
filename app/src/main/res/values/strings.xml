@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">API</string>
+
+    <string name="Tittle">REGISTROS</string>
+
+    <string name="Delete">Eliminar</string>
+    <string name="Upload">Actualizar</string>
+    <string name="Create">Registrar</string>
+    <string name="Read">Consultar</string>
+    <string name="Back">Volver</string>
+
+    <string name="Name">Nombre</string>
+    <string name="Username">Usuario</string>
+    <string name="Rol">Rol</string>
+    <string name="ID">Id User</string>
+    <string name="Password">Password</string>
+
+    <string name="Description">Usuarios registrados</string>
+    <string name="User">Id usuario: </string>
+    <string name="NewUser">Registro de usuarios</string>
+    <string name="uploadUser">Actualización de usuario</string>
+    <string name="NoText">XXXXXX</string>
+</resources>
