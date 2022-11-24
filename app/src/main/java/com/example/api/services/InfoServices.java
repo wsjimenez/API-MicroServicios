@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class InfoServices {
     private Retrofit getRetrofit() {
         return new Retrofit.Builder()
-                .baseUrl("http:192.168.1.16:8080/")
+                .baseUrl("http://10.0.0.36:8080/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
     }
